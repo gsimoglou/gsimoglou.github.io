@@ -269,6 +269,7 @@ function topThreeFilter() {
 
     // register click listener to the "show top 3 rows" table filter
     document.querySelector(".table_controls_label.top_three").addEventListener('click', function(evt) {
+		tableRows = table.querySelectorAll("#generated_table tbody tr");
         let topThreeCheckbox = document.querySelector(".table_controls_label.top_three input");
         // if the checkbox is checked
         if(topThreeCheckbox.checked){
