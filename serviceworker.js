@@ -35,7 +35,7 @@ self.addEventListener("install", function (e) {
           "/media/favicon/favicon-192.png",
           "/media/favicon/favicon-310.png",
           "/media/favicon/favicon-512.png",
-          "/js/table-generator.js?ver=1.0",
+          "/js/customizer.js?ver=1.0",
           "/css/customizer-table.css?ver=1.0",
           "/css/customizer-table-editor.css?ver=1.0",
           "/css/style.css?ver=1.0"
