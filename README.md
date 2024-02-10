@@ -1,5 +1,7 @@
 # RUN-ATHLETICS
 
+https://gsimoglou.github.io/
+
 RUN ATHLETICS is a web application about athletics. RUN ATHLETICS constitutes a website/web-application project which was developed as a series of assignments in the context of "Web &amp; Mobile Apps Development" course at University of Macedonia. All the media, e.g., logos, images, videos, fonts etc., used in this application suggest non-copyrighted materials which are provided freely both for personal and commercial use.
 
 RUN ATHLETICS, from the beginning, comes with a powerful presence. This project serves as the motivation to adopt and better familiarize with the fundamental web technologies. Our Runner Standings Table summarizes the scores of 8 runners in a 100m track race. Information about the Position (POS), Name, Number (No), Nationality, Points (PTS), Season Best Record (SBR), Personal Best Record (PBR) is provided in a tabular view which facilitates the review of the performance of our participating and honorable athletes. Additionally, since track running is a popular and welcoming sport, this web application provides relevant linked assets in an effort to motivate or boost any individual into this sport.
